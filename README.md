@@ -1,4 +1,4 @@
-# Meg's Signature
+# Micheletti & Co. Ltd. 
 Complete website with a custom CMS created from scratch using CakePHP a rapid and robust PHP MVC framework. Micheletti & Co. Ltd. Is one of Ghana's leading Civil Engineering and Building Construction Companies operating for over 50 years in the range of skills and resources and provides clients with a comprehensive service throughout the entire life cycle of the projects in the built environments.
 
 ## Getting Started
