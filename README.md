@@ -53,6 +53,7 @@ Refer to installation
 * [TweenMax](https://greensock.com/tweenmax) - Javascript framework from GreenSock
 * [Font Awesome](https://greensock.com/tweenmax) - Font Script
 * [Zurb Foundation](https://foundation.zurb.com/) - The most advanced responsive front-end framework
+* [Layer Slider](https://codecanyon.net/item/layerslider-responsive-jquery-slider-plugin/922100) - Image Slider
 
 ## Contributing
 
